@@ -11,12 +11,13 @@
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" LINESPMode="1" FSHADE="90"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" LINESPMode="1" FSHADE="90"/>
         <STYLE NAME="h1" PARENT="Default Paragraph Style" ALIGN="0" CPARENT="h1" FONT="Liberation Sans Narrow Bold" FONTSIZE="12" FCOLOR="Nouvelle couleur" FSHADE="90"/>
         <STYLE NAME="h2" PARENT="Default Paragraph Style" VOR="6" CPARENT="Default Character Style" FONT="Georgia Regular" FONTSIZE="10" FCOLOR="Nouvelle couleur" FSHADE="100"/>
         <STYLE NAME="notes" PARENT="Default Paragraph Style" CPARENT="notes" FSHADE="70"/>
         <STYLE NAME="p.code" PARENT="Default Paragraph Style" CPARENT="p.code" FSHADE="100"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Liberation Sans Narrow Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="French"/>
+        <STYLE NAME="Copie de h2 (1)" PARENT="Default Paragraph Style" VOR="6" CPARENT="Default Character Style" FONT="Gentium Regular" FONTSIZE="10" FCOLOR="Nouvelle couleur" FSHADE="100"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Liberation Sans Narrow Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="French"/>
         <CHARSTYLE CNAME="h1" CPARENT="Default Character Style" FONT="Arial Bold" FONTSIZE="14" FSHADE="60"/>
         <CHARSTYLE CNAME="h2" CPARENT="Default Character Style" FONT="Arial Bold" FONTSIZE="12" FSHADE="80"/>
         <CHARSTYLE CNAME="notes" CPARENT="Default Character Style" FONT="Georgia Italic" FONTSIZE="8" FSHADE="60"/>
@@ -482,7 +483,7 @@
             <trail PARENT="h1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="140" YPOS="296.774845360825" WIDTH="240" HEIGHT="235.854020618557" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 235.854 240 235.854 240 235.854 240 235.854 0 235.854 0 235.854 0 235.854 0 235.854 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 235.854 240 235.854 240 235.854 240 235.854 0 235.854 0 235.854 0 235.854 0 235.854 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="140" YPOS="299.774845360825" WIDTH="240" HEIGHT="235.854020618557" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 235.854 240 235.854 240 235.854 240 235.854 0 235.854 0 235.854 0 235.854 0 235.854 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240 0 240 0 240 0 240 0 240 235.854 240 235.854 240 235.854 240 235.854 0 235.854 0 235.854 0 235.854 0 235.854 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Raid levels"/>
             <para PARENT="h2"/>
             <ITEXT CH="Mode"/>
@@ -549,99 +550,7 @@
             <tab/>
             <ITEXT CH="Striping + Mirroring"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Command lines"/>
-            <para PARENT="h2"/>
-            <ITEXT CH="For the sake of simplicity, all lines starting with a double dash command in this cheatsheet are to be prefixed with "/>
-            <ITEXT CPARENT="p.code" FONTSIZE="9" CH="mdadm"/>
-            <ITEXT CH=" as follows :"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CPARENT="p.code" CH="--detail --scan "/>
-            <tab CPARENT="p.code"/>
-            <tab CPARENT="p.code"/>
-            <ITEXT CPARENT="p.code" CH="# the example from this page"/>
-            <ITEXT CH="  "/>
             <para/>
-            <ITEXT CPARENT="p.code" CH="mdadm --detail --scan "/>
-            <tab CPARENT="p.code"/>
-            <ITEXT CPARENT="p.code" CH="# the corresponding command"/>
-            <para/>
-            <ITEXT CH="Files systems types"/>
-            <tab/>
-            <ITEXT CH="MDADM Concepts"/>
-            <para PARENT="h2"/>
-            <ITEXT CH="Linux swap"/>
-            <tab/>
-            <ITEXT CH="82"/>
-            <tab/>
-            <ITEXT CH="Array"/>
-            <ITEXT CPARENT="notes" CH=" "/>
-            <tab CPARENT="notes"/>
-            <ITEXT CPARENT="notes" CH="Bunch of disks / devices"/>
-            <para OpticalMargins="0">
-                <Tabs Type="0" Pos="72.2886597938144" Fill=""/>
-                <Tabs Type="0" Pos="73.21649485" Fill=""/>
-                <Tabs Type="0" Pos="108.1030928" Fill=""/>
-                <Tabs Type="0" Pos="152.6391753" Fill=""/>
-                <Tabs Type="0" Pos="155.6082474" Fill=""/>
-            </para>
-            <ITEXT CH="Linux xfs"/>
-            <tab/>
-            <ITEXT CH="83"/>
-            <tab/>
-            <ITEXT CH="Metadata"/>
-            <ITEXT CPARENT="notes" CH=" "/>
-            <tab CPARENT="notes"/>
-            <ITEXT CPARENT="notes" CH="Array informations"/>
-            <para>
-                <Tabs Type="0" Pos="72.2886597938144" Fill=""/>
-                <Tabs Type="0" Pos="73.21649485" Fill=""/>
-                <Tabs Type="0" Pos="108.1030928" Fill=""/>
-                <Tabs Type="0" Pos="152.6391753" Fill=""/>
-                <Tabs Type="0" Pos="155.6082474" Fill=""/>
-            </para>
-            <ITEXT CH="Linux ext2-3-4"/>
-            <tab/>
-            <ITEXT CH="83"/>
-            <tab/>
-            <ITEXT CH="Component "/>
-            <tab/>
-            <ITEXT CPARENT="notes" CH="Array element "/>
-            <para>
-                <Tabs Type="0" Pos="72.2886597938144" Fill=""/>
-                <Tabs Type="0" Pos="73.21649485" Fill=""/>
-                <Tabs Type="0" Pos="108.1030928" Fill=""/>
-                <Tabs Type="0" Pos="152.6391753" Fill=""/>
-                <Tabs Type="0" Pos="155.6082474" Fill=""/>
-            </para>
-            <ITEXT CH="Linux LVM"/>
-            <tab/>
-            <ITEXT CH="8E"/>
-            <tab/>
-            <ITEXT CH="Faulty"/>
-            <tab/>
-            <ITEXT CPARENT="notes" CH="Component with errors"/>
-            <ITEXT CH=" "/>
-            <para>
-                <Tabs Type="0" Pos="72.2886597938144" Fill=""/>
-                <Tabs Type="0" Pos="73.21649485" Fill=""/>
-                <Tabs Type="0" Pos="108.1030928" Fill=""/>
-                <Tabs Type="0" Pos="152.6391753" Fill=""/>
-                <Tabs Type="0" Pos="155.6082474" Fill=""/>
-            </para>
-            <ITEXT CH="Linux Raid Auto.  "/>
-            <tab/>
-            <ITEXT CH="FD"/>
-            <tab/>
-            <ITEXT CH="Missing"/>
-            <tab/>
-            <ITEXT CPARENT="notes" CH="Component placeholder "/>
-            <trail>
-                <Tabs Type="0" Pos="72.2886597938144" Fill=""/>
-                <Tabs Type="0" Pos="73.21649485" Fill=""/>
-                <Tabs Type="0" Pos="108.1030928" Fill=""/>
-                <Tabs Type="0" Pos="152.6391753" Fill=""/>
-                <Tabs Type="0" Pos="155.6082474" Fill=""/>
-            </trail>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="140" YPOS="35.3814433" WIDTH="515.28" HEIGHT="24.6185567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 24.6186 515.28 24.6186 515.28 24.6186 515.28 24.6186 0 24.6186 0 24.6186 0 24.6186 0 24.6186 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 24.6186 515.28 24.6186 515.28 24.6186 515.28 24.6186 0 24.6186 0 24.6186 0 24.6186 0 24.6186 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -887,6 +796,10 @@
             <para PARENT="h2"/>
             <ITEXT CH="echo 50000 &gt; /proc/sys/dev/raid/speed_limit_min"/>
             <para PARENT="p.code"/>
+            <ITEXT CH="Forcing for recovery"/>
+            <para PARENT="h2"/>
+            <ITEXT CH="--assemble --force /dev/md0"/>
+            <para PARENT="p.code"/>
             <ITEXT CH="mdadm-startall"/>
             <para PARENT="h2"/>
             <ITEXT CH="Utility script for starting all arrays and writing a configuration file if none found"/>
@@ -909,11 +822,12 @@
             <para/>
             <ITEXT CH="http://www.ducea.com/2009/03/08/mdadm-cheat-sheet/"/>
             <para/>
-            <ITEXT CH="https://en.wikipedia.org/wiki/Mdadm"/>
-            <para/>
-            <ITEXT CH="https://wiki.debian.org/SoftwareRAID"/>
-            <para/>
             <ITEXT CH="http://www.howtoforge.com/how-to-resize-raid-partitions-shrink-and-grow-software-raid"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
             <para/>
             <para/>
             <para/>
@@ -934,7 +848,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="183.34020619" YPOS="566.538571429" WIDTH="471.9397938" HEIGHT="8.741428571" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 471.94 0 471.94 0 471.94 0 471.94 0 471.94 8.74143 471.94 8.74143 471.94 8.74143 471.94 8.74143 0 8.74143 0 8.74143 0 8.74143 0 8.74143 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 471.94 0 471.94 0 471.94 0 471.94 0 471.94 8.74143 471.94 8.74143 471.94 8.74143 471.94 8.74143 0 8.74143 0 8.74143 0 8.74143 0 8.74143 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Original document available on http://github.com/octopuce/cheatsheet-mdadm - Public domain "/>
+            <ITEXT CH="Original document available on http://github.com/octopuce/cheatsheet-mdadm - Creative Commons 4.0 BY-SA"/>
             <para PARENT="notes"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -945,6 +859,168 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="823.91752577" YPOS="566.523366065" WIDTH="77.97247423" HEIGHT="8.756633935" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 77.9725 0 77.9725 0 77.9725 0 77.9725 0 77.9725 8.75663 77.9725 8.75663 77.9725 8.75663 77.9725 8.75663 0 8.75663 0 8.75663 0 8.75663 0 8.75663 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 77.9725 0 77.9725 0 77.9725 0 77.9725 0 77.9725 8.75663 77.9725 8.75663 77.9725 8.75663 77.9725 8.75663 0 8.75663 0 8.75663 0 8.75663 0 8.75663 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONTSIZE="8" CH="v.20131022"/>
             <trail PARENT="h1" ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="245.25" YPOS="396.25" WIDTH="137.25" HEIGHT="121.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 137.25 0 137.25 0 137.25 0 137.25 0 137.25 121.75 137.25 121.75 137.25 121.75 137.25 121.75 0 121.75 0 121.75 0 121.75 0 121.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 137.25 0 137.25 0 137.25 0 137.25 0 137.25 121.75 137.25 121.75 137.25 121.75 137.25 121.75 0 121.75 0 121.75 0 121.75 0 121.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="MDADM Concepts"/>
+            <para PARENT="h2"/>
+            <ITEXT CH="Array"/>
+            <ITEXT CPARENT="notes" CH="                Bunch of disks / devices"/>
+            <para OpticalMargins="0">
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Component "/>
+            <ITEXT CPARENT="notes" CH="    Array element "/>
+            <para OpticalMargins="0">
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Metadata"/>
+            <ITEXT CPARENT="notes" CH="         Array informations"/>
+            <para/>
+            <ITEXT CH="Faulty"/>
+            <ITEXT CPARENT="notes" CH="              Component with errors"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Missing"/>
+            <ITEXT CPARENT="notes" CH="            Component placeholder"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="140" YPOS="396.5" WIDTH="118" HEIGHT="143.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 118 0 118 0 118 0 118 0 118 143.25 118 143.25 118 143.25 118 143.25 0 143.25 0 143.25 0 143.25 0 143.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 118 0 118 0 118 0 118 0 118 143.25 118 143.25 118 143.25 118 143.25 0 143.25 0 143.25 0 143.25 0 143.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Files systems types"/>
+            <tab/>
+            <para PARENT="h2"/>
+            <ITEXT CH="Linux swap"/>
+            <tab/>
+            <ITEXT CH="82"/>
+            <para OpticalMargins="0">
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Linux ext2-3-4"/>
+            <tab/>
+            <ITEXT CH="83"/>
+            <para OpticalMargins="0">
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Linux xfs"/>
+            <tab/>
+            <ITEXT CH="83"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Linux BTRFS"/>
+            <tab/>
+            <ITEXT CH="83"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="JFS"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="ReiserFS"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="XFS"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Linux LVM"/>
+            <tab/>
+            <ITEXT CH="8E"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Crypt/LUKS"/>
+            <para>
+                <Tabs Type="0" Pos="72.28865979" Fill=""/>
+                <Tabs Type="0" Pos="73.21649485" Fill=""/>
+                <Tabs Type="0" Pos="108.1030928" Fill=""/>
+                <Tabs Type="0" Pos="152.6391753" Fill=""/>
+                <Tabs Type="0" Pos="155.6082474" Fill=""/>
+            </para>
+            <ITEXT CH="Linux Raid Auto.  "/>
+            <tab/>
+            <ITEXT CH="FD"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="234.5" YPOS="398.25" WIDTH="115.5" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="652.5" YPOS="495.5" WIDTH="249.39" HEIGHT="61.4999999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 249.39 0 249.39 0 249.39 0 249.39 0 249.39 61.5 249.39 61.5 249.39 61.5 249.39 61.5 0 61.5 0 61.5 0 61.5 0 61.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 249.39 0 249.39 0 249.39 0 249.39 0 249.39 61.5 249.39 61.5 249.39 61.5 249.39 61.5 0 61.5 0 61.5 0 61.5 0 61.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Command lines"/>
+            <para PARENT="h2"/>
+            <ITEXT FONT="Liberation Sans Narrow Bold" FONTSIZE="8" CH="For the sake of simplicity, all lines starting with a double dash command "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONT="Liberation Sans Narrow Bold" FONTSIZE="8" CH="in this cheatsheet are to be prefixed with "/>
+            <ITEXT CPARENT="p.code" FONT="Liberation Sans Narrow Regular" FONTSIZE="8" CH="mdadm"/>
+            <ITEXT FONT="Liberation Sans Narrow Bold" FONTSIZE="8" CH=" as follows"/>
+            <ITEXT CH=" :"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="p.code" CH="--detail --scan "/>
+            <tab CPARENT="p.code"/>
+            <tab CPARENT="p.code"/>
+            <ITEXT CPARENT="p.code" CH="# the example from this page"/>
+            <ITEXT CH="  "/>
+            <para/>
+            <ITEXT CPARENT="p.code" CH="mdadm --detail --scan "/>
+            <tab CPARENT="p.code"/>
+            <ITEXT CPARENT="p.code" CH="# the corresponding command"/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
